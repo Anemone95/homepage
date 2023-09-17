@@ -1,16 +1,18 @@
 ---
-title: Recent & Upcoming Events
-cms_exclude: true
+widget: blank
+headless: true
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 1
+# ... Put Your Section Options Here (title etc.) ...
+title: My New Section
+subtitle:
+weight: 10  # section position on page
 
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ''
-  image: ''
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
 ---
+
+Add any content here - text, images, videos, galleries - and even HTML code!
+* aaa
+* bbb
 

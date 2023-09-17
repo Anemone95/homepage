@@ -7,27 +7,27 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Experience
-    url: '#experience'
+  - name: Publications
+    url: '/publication/'
     weight: 20
   - name: Service & Teaching
     url: '#service'
     weight: 30
-  - name: Publications
-    url: '#featured'
-    weight: 50
-  - name: Blog
-    url: '#blog'
+  - name: Experience
+    url: '#experience'
     weight: 40
-  # - name: Talks
-    # url: '#talks'
-    # weight: 40
+  - name: Blog(In Chinese)
+    url: 'https://anemone.top/'
+    weight: 60
+  - name: Projects
+    url: '#projects'
+    weight: 70
+  - name: CV
+    url: uploads/resume.pdf
+    weight: 80
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 1000
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70
