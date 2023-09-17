@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Wenyuan Xu
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Wenyuan
+last_name: Xu
 
 # Status emoji
 status:
@@ -14,34 +14,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Department of Computer Science, Aarhus University
+    url: https://cs.au.dk/ 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include program analysis, software security.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Program Analysis
+  - Software Security
+  - Philosophy
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Program Analysis
+      institution: Aarhus University
+      year: 2022
+    - course: MEng in Software Engineering
+      institution: Nanjing University
+      year: 2018
+    - course: BSc in Network Engineering
+      institution: Yangzhou University
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -53,19 +53,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/wyxu95 
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=XAdIZeIAAAAJ&hl=en 
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Anemone95
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/wyxu/ 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -74,11 +74,15 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'wyxu95@foxmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I am Wenyuan Xu, a second-year Ph.D. student at [Aarhus University](https://cs.au.dk/), advised by [Anders Møller](https://cs.au.dk/~amoeller/). Previously, I was an Security Engineer at [Alibaba Security Department](https://s.alibaba.com/). I spent my happy undergraduate and graduate years at [Yangzhou University](http://english.yzu.edu.cn/) and [Nanjing University](https://software.nju.edu.cn/English/index.html).
+
+
+I have a strong interest in Program Analysis and Software Security.
+
 {style="text-align: justify;"}
