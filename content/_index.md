@@ -16,7 +16,7 @@ sections:
       title: Recent & Upcoming Events
       text: |-
         * (2023.09) I will attend [PLISS 2023](https://pliss.org/2023/) soon!
-        * (2023.5.10) Our team won the 1st place in ChalmersGU-KTH-Aarhus CTF competition!
+        * (2023.05) Our team won the 1st place in ChalmersGU-KTH-Aarhus CTF competition!
         * (2022.08) I will be a Ph.D. Student at Computer Science Department at Aarhus University!
     design:
       columns: 2
