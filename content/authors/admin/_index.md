@@ -36,7 +36,7 @@ education:
     - course: PhD in Program Analysis
       institution: Aarhus University
       year: 2022
-    - course: MEng in Software Engineering
+    - course: Msc in Software Engineering
       institution: Nanjing University
       year: 2018
     - course: BSc in Network Engineering
