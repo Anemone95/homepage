@@ -59,7 +59,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Ph.D. Student \(Advisor:&nbsp;[Anders Møller](https://cs.au.dk/~amoeller/)\)
+        - title: Ph.D. Student \(in [CASA](https://casa.au.dk/), Advisor:&nbsp;[Anders Møller](https://cs.au.dk/~amoeller/)\)
           company: Aarhus University
           company_url: 'https://cs.au.dk/'
           location: Aarhus, Denmark
